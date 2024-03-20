@@ -11,7 +11,7 @@ From my repository, click on:
 
 Code > Download as ZIP File > Open the application in VSC > run `node index.js` in the command line either using VSC or the device's own.
 
-After this, the terminal will greet the user with the corresponding promts; once this is completed, the user will have a README file completed that displays the informaton their entered!
+After this, the terminal will greet the user with the corresponding promts. Once this is completed, the user will have a finished README file that displays the informaton they entered from the prompt messages!
 
 Here is a link to a video showcasing the final result of the challenge:
 
